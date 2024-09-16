@@ -4,7 +4,7 @@
 
 **Demo**
 
--You can see a live demo of the project here.
+-You can see a live demo of the project [here](https://www.linkedin.com/posts/shahid-khan-985919317_webdevelopment-javascript-css-activity-7241325841387814912-Jagf?utm_source=share&utm_medium=member_desktop).
 
 **Features**
 
